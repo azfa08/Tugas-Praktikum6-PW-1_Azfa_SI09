@@ -1,0 +1,53 @@
+h1{
+    color:blue
+}
+
+#header{
+    background-color: lightsalmon;
+    text-align: center;
+}
+
+blockquote{
+    background-color: yellow;
+    border: 1px dotted black;
+}
+
+.gambar{
+    text-align: center;
+}
+
+.nav{
+    text-align: center;
+}
+
+.nav ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav ul li{
+    margin: 0em 1em;
+}
+
+.jawa{
+    color: blue;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+body{
+    background-color: maroon;
+}
+
+.koleksi{
+    background-color: black;
+    display: flex;
+}
+
+.promo{
+    background-color: maroon;
+    justify-content: center;
+    width: 50px;
+}
